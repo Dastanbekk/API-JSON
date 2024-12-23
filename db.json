@@ -1,0 +1,129 @@
+[
+  {
+    "id": 78,
+    "name": "Electronics",
+    "image": "https://img.freepik.com/free-photo/organic-cosmetic-product-with-dreamy-aesthetic-fresh-background_23-2151382816.jpg",
+    "creationAt": "2024-12-23T18:44:16.000Z",
+    "btn":"Add to Cart",
+    "updatedAt": "2024-12-23T18:44:14.000Z"
+  },
+  {
+    "id": 79,
+    "name": "Electronics",
+    "image": "https://img.freepik.com/free-photo/organic-cosmetic-product-with-dreamy-aesthetic-fresh-background_23-2151382835.jpg?t=st=1734984423~exp=1734988023~hmac=90ef032d7befb6a162c887f5b4b49db16ab3026cf719c0b43ac828df6a375b43&w=996",
+    "btn":"Add to Cart",
+    "creationAt": "2024-12-23T18:44:29.000Z",
+    "updatedAt": "2024-12-23T18:44:28.000Z"
+  },
+  {
+    "id": 80,
+    "name": "Electronics",
+    "image": "https://img.freepik.com/free-photo/organic-cosmetic-product-with-dreamy-aesthetic-fresh-background_23-2151382802.jpg?t=st=1734984474~exp=1734988074~hmac=461f6a4c9586debf65d79c42456f9e442a08ef36a174cd04029af748ce096986&w=826",
+    "btn":"Add to Cart",
+    "creationAt": "2024-12-23T18:44:52.000Z",
+    "updatedAt": "2024-12-23T18:44:52.000Z"
+  },
+  {
+    "id": 81,
+    "name": "Electronics",
+    "image": "https://img.freepik.com/free-photo/organic-cosmetic-product-with-dreamy-aesthetic-fresh-background_23-2151382877.jpg?t=st=1734985543~exp=1734989143~hmac=7f5d09241a00ff4ba90ef19afa9d42b41418b36edf9411d257eda6cd9b7e0daf&w=900",
+    "btn":"Add to Cart",
+    "creationAt": "2024-12-23T18:45:27.000Z",
+    "updatedAt": "2024-12-23T18:45:27.000Z"
+  },
+  {
+    "id": 82,
+    "name": "Electronics",
+    "image": "https://img.freepik.com/free-photo/organic-cosmetic-product-with-dreamy-aesthetic-fresh-background_23-2151382867.jpg?t=st=1734985581~exp=1734989181~hmac=ecbd077ed3a77d464a739786914f6d38cfdc73502c05ce422d536f9d324b28ef&w=996",
+    "btn":"Add to Cart",
+    "creationAt": "2024-12-23T18:49:33.000Z",
+    "updatedAt": "2024-12-23T18:49:33.000Z"
+  },
+  {
+    "id": 83,
+    "name": "Electronics",
+    "image": "https://img.freepik.com/free-photo/organic-cosmetic-product-with-dreamy-aesthetic-fresh-background_23-2151382808.jpg?t=st=1734985605~exp=1734989205~hmac=e88ab4829859879d2b84348ee029c4079d136db5cef05b47cfb3d301da4e1b70&w=900",
+    "btn":"Add to Cart",
+    "creationAt": "2024-12-23T18:49:44.000Z",
+    "updatedAt": "2024-12-23T18:49:44.000Z"
+  },
+  {
+    "id": 84,
+    "name": "Electronics",
+    "image": "https://img.freepik.com/free-photo/organic-cosmetic-product-with-dreamy-aesthetic-fresh-background_23-2151382807.jpg?t=st=1734985631~exp=1734989231~hmac=a200902d39e06cdf8f2171d18775810984fdbbb0bdd8b92361d6fa112e209569&w=900",
+    "btn":"Add to Cart",
+    "creationAt": "2024-12-23T18:50:09.000Z",
+    "updatedAt": "2024-12-23T18:50:09.000Z"
+  },
+  {
+    "id": 85,
+    "name": "Electronics",
+    "image": "https://img.freepik.com/free-photo/organic-cosmetic-product-with-dreamy-aesthetic-fresh-background_23-2151382813.jpg?t=st=1734987164~exp=1734990764~hmac=dae11118eb86c8e9c112f94ae9ffb5bb83f4b872e78a70b13fa9cb86a0b2c713&w=826",
+    "btn":"Add to Cart",
+    "creationAt": "2024-12-23T18:51:39.000Z",
+    "updatedAt": "2024-12-23T18:51:39.000Z"
+  },
+  {
+    "id": 78,
+    "name": "Electronics",
+    "image": "https://img.freepik.com/free-photo/organic-cosmetic-product-with-dreamy-aesthetic-fresh-background_23-2151382816.jpg",
+    "creationAt": "2024-12-23T18:44:14.000Z",
+    "updatedAt": "2024-12-23T18:44:14.000Z"
+  },
+  {
+    "id": 79,
+    "name": "Electronics",
+    "image": "https://img.freepik.com/free-photo/organic-cosmetic-product-with-dreamy-aesthetic-fresh-background_23-2151382835.jpg?t=st=1734984423~exp=1734988023~hmac=90ef032d7befb6a162c887f5b4b49db16ab3026cf719c0b43ac828df6a375b43&w=996",
+    "btn":"Add to Cart",
+    "creationAt": "2024-12-23T18:44:28.000Z",
+    "updatedAt": "2024-12-23T18:44:28.000Z"
+  },
+  {
+    "id": 80,
+    "name": "Electronics",
+    "image": "https://img.freepik.com/free-photo/organic-cosmetic-product-with-dreamy-aesthetic-fresh-background_23-2151382802.jpg?t=st=1734984474~exp=1734988074~hmac=461f6a4c9586debf65d79c42456f9e442a08ef36a174cd04029af748ce096986&w=826",
+    "btn":"Add to Cart",
+    "creationAt": "2024-12-23T18:44:52.000Z",
+    "updatedAt": "2024-12-23T18:44:52.000Z"
+  },
+  {
+    "id": 81,
+    "name": "Electronics",
+    "image": "https://img.freepik.com/free-photo/organic-cosmetic-product-with-dreamy-aesthetic-fresh-background_23-2151382877.jpg?t=st=1734985543~exp=1734989143~hmac=7f5d09241a00ff4ba90ef19afa9d42b41418b36edf9411d257eda6cd9b7e0daf&w=900",
+    "btn":"Add to Cart",
+    "creationAt": "2024-12-23T18:45:27.000Z",
+    "updatedAt": "2024-12-23T18:45:27.000Z"
+  },
+  {
+    "id": 82,
+    "name": "Electronics",
+    "image": "https://img.freepik.com/free-photo/organic-cosmetic-product-with-dreamy-aesthetic-fresh-background_23-2151382867.jpg?t=st=1734985581~exp=1734989181~hmac=ecbd077ed3a77d464a739786914f6d38cfdc73502c05ce422d536f9d324b28ef&w=996",
+    "btn":"Add to Cart",
+    "creationAt": "2024-12-23T18:49:33.000Z",
+    "updatedAt": "2024-12-23T18:49:33.000Z"
+  },
+  {
+    "id": 83,
+    "name": "Electronics",
+    "image": "https://img.freepik.com/free-photo/organic-cosmetic-product-with-dreamy-aesthetic-fresh-background_23-2151382808.jpg?t=st=1734985605~exp=1734989205~hmac=e88ab4829859879d2b84348ee029c4079d136db5cef05b47cfb3d301da4e1b70&w=900",
+    "btn":"Add to Cart",
+    "creationAt": "2024-12-23T18:49:44.000Z",
+    "updatedAt": "2024-12-23T18:49:44.000Z"
+  },
+  {
+    "id": 84,
+    "name": "Electronics",
+    "image": "https://img.freepik.com/free-photo/organic-cosmetic-product-with-dreamy-aesthetic-fresh-background_23-2151382807.jpg?t=st=1734985631~exp=1734989231~hmac=a200902d39e06cdf8f2171d18775810984fdbbb0bdd8b92361d6fa112e209569&w=900",
+    "btn":"Add to Cart",
+    "creationAt": "2024-12-23T18:50:09.000Z",
+    "updatedAt": "2024-12-23T18:50:09.000Z"
+  },
+  {
+    "id": 85,
+    "name": "Electronics",
+    "image": "https://img.freepik.com/free-photo/organic-cosmetic-product-with-dreamy-aesthetic-fresh-background_23-2151382813.jpg?t=st=1734987164~exp=1734990764~hmac=dae11118eb86c8e9c112f94ae9ffb5bb83f4b872e78a70b13fa9cb86a0b2c713&w=826",
+    "btn":"Add to Cart",
+    "creationAt": "2024-12-23T18:51:39.000Z",
+    "updatedAt": "2024-12-23T18:51:39.000Z"
+  }
+]
